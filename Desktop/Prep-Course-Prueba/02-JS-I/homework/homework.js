@@ -196,7 +196,7 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
-  let arearec = alto * ancho;
+  let arearec = alto * ancho ;
   return arearec;
 }
 
