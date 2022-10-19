@@ -15,7 +15,7 @@ function invocarCallback(cb) {
   //Tu código:
   cb();
 
-// opcion 2
+// opcion 2   
 //  console.log(cb());
 }
 

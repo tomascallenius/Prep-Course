@@ -255,6 +255,7 @@ function continueStatement(numero) {
     numero+=2;
     newArray.push(numero)
   }return newArray;
+  
 }
 
 

@@ -200,6 +200,7 @@ function doWhile(numero) {
     contador++ 
   } while (contador < 8);
   return numeroaumentado;
+  
 }
 
 

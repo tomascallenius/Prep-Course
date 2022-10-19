@@ -19,7 +19,7 @@ function crearUsuario() {
       return (`Hola, mi nombre es ${this.nombre}`)
     } 
   }  
-  return Usuario; 
+  return Usuario;  
   
   // class Usuario{
   //   constructor({usuario, nombre, email, password}){
